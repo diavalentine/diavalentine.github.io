@@ -52,7 +52,7 @@ h1{
 }
 
 a{
-    color: var(--heading-bg:);
+    color: var(--heading-bg);
     text-decoration: none;
 }
 
